@@ -4,6 +4,7 @@ Codificado para trabalho acadêmico "Ferramentas de Backup de Banco de dados", d
 
 Há muito o que fazer ainda, 
 DBacker está extremamente incompleto.
+
 ---
 ### **TO DO**
  * registro de tarefas no windows para execução de script de backup,
